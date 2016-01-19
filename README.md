@@ -12,3 +12,5 @@ sbt package #to create a distribution
 
 sbt gen-idea #to create an idea project
 
+sbt dependencyTree #show library dependencies
+
