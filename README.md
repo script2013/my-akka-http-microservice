@@ -20,5 +20,8 @@ sbt dependencyTree #show library dependencies
 
 
 See also:
-http://engineering.monsanto.com/2015/08/11/simple-spray/
-https://github.com/MonsantoCo/simple-spray
+
+Blog: http://engineering.monsanto.com/2015/08/11/simple-spray/
+
+Github Project: https://github.com/MonsantoCo/simple-spray
+
